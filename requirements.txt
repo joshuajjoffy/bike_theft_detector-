@@ -1,0 +1,35 @@
+torch
+transformers
+opencv-python
+pillow
+einops
+timm
+accelerate
+
+
+torch
+torchvision
+torchaudio
+
+//The "Scout" (YOLOv11)
+
+ultralytics
+
+The "Eye" (Florence-2)
+
+We pin this version to fix the '_supports_sdpa' crash
+
+transformers==4.45.2
+einops
+timm
+accelerate
+
+The "Brain" (Ollama)
+
+ollama
+
+Image & Video Processing
+
+opencv-python
+pillow
+numpy
